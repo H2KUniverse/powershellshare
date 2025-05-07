@@ -20,10 +20,17 @@ Flutter app android VS code.
         PS> Get-Command flutter | Select-Object Source
             Source -- C:\src\flutter\binflutter.bat
 
-4. I terminalen navigere til din projekt folder. 
+4. I terminalen navigere til din projekt folder og skriv derefter : 
     PS> flutter create my_app
     PS> cd my_app
     PS > flutter run -d edge
 
 
 Der er billeder i folderen FlutterappImages
+
+
+Har lagt et projekt op sammen med du kan lege med. 
+PS> cd .\flutterApp\my_app\
+PS> flutter run -d edge
+
+Filerne du leder efter er i folderen lib. Tjek billede. 
